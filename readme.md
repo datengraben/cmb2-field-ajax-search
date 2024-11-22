@@ -1,5 +1,8 @@
 # CMB2 Field Type: Ajax Search
 
+> [!IMPORTANT]
+> This is forked for development of [commonsbooking](github.com/wielebenwir/commonsbooking). Every additional patch in this repo exists only to support the development of commonsbooking.
+
 Custom fields for [CMB2](https://github.com/WebDevStudios/CMB2) to attach posts, users or terms to each others.
 
 Formed from https://github.com/rubengc/cmb2-field-ajax-search.
